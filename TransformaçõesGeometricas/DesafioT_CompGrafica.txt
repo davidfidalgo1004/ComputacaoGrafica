@@ -1,0 +1,32 @@
+Rotação e Escalar -> Multiplicação de matrizes
+Translação -> Soma de Vetores
+
+H-> Considerando o centro de massa em (-3,5 ; -2)
+Faz se uma transformação Rotativa de 90º, mantendo assim o mesmo centro
+Para levarmos para o sitio dele, que teria um centro de (1;1,5), temos que saber quanto se vai mover no eixo do x e quanto vai se mover no eixo do y
+DeltaX = X' - X = 1 - (-3,5) = 4 (movimenta se 4 unidades para a direita)
+DeltaY = Y' - Y = 1,5 - (-2) = 3,5 (movimenta se 3,5 unidades para cima) 
+
+O-> Considerando o centro de massa em (-1, 1)
+Faz se uma operação escalar em Y, pois a altura é de 3 unidades e só pode ter 2 unidades
+X=X
+Y=3/2Y (2unidades passa para 3 unidades)
+Para levarmos para o sitio dele, que teria um centro de (3;1,5), temos que saber quanto se vai mover no eixo do x e quanto vai se mover no eixo do y
+DeltaX = X' - X = 3 - (-1) = 4 (movimenta se 4 unidades para a direita)
+DeltaY = Y' - Y = 1,5 - 1,5 = 0 (movimenta se 0 unidades na vertical) 
+
+M-> Considerando o centro de massa em (3; -2,5)
+Faz se uma transformação Rotativa de 180º, virando assim ao contrario
+Para levarmos para o sitio dele, que teria um centro de (5;1,5), temos que saber quanto se vai mover no eixo do x e quanto vai se mover no eixo do y
+DeltaX = X' - X = 5 - 3 = 2 (movimenta se 2 unidades para a direita)
+DeltaY = Y' - Y = 1,5 - (-2,5) = 4 (movimenta se 4 unidades para cima) 
+
+
+E-> Considerando o centro de massa em (5;6)
+Faz se uma operação escalar em X e Y, pois a "altura" é de 6 unidades e só pode ter 3 unidades e a "largura" é de 4 unidades e só pode ter 2 unidades
+X=1/2X
+Y=1/2Y
+Faz se uma transformação Rotativa de -90º, metendo os "garfos" do 'E' para a direita
+Para levarmos para o sitio dele, que teria um centro de (7;1,5), temos que saber quanto se vai mover no eixo do x e quanto vai se mover no eixo do y
+DeltaX = X' - X = 7 - 5 = 2 (movimenta se 2 unidades para a direita)
+DeltaY = Y' - Y = 1,5 - 6 = -4,5 (movimenta se 4 unidades para baixo)
