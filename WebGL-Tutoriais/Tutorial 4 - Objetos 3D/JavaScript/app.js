@@ -250,7 +250,7 @@ function loop()
 
     
 
-    finalMatrix=math.multiply(CriarMatrizRotacaoY(anguloDeRotacao), finalMatrix);
+    finalMatrix=math.multiply(CriarMatrizRotacaoX(anguloDeRotacao), finalMatrix);
 
     // Atualizamos esta linha para o triângulo "voltar" para o centro e criamos
     // uma translação no eixo do Z para que o triângulo fique dentro do volume de visualização
